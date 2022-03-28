@@ -18,3 +18,16 @@ It will show you all the groups you are the member of.
 Select the group of which you want the members and the script will do the rest.
 
 You can view the scrapped members list in a CSV file.
+
+
+# Installation
+
+You need Python3 (3.6+ works fine, 3.5 will crash randomly).
+
+Install dependencies by running this command:
+
+    pip install -r requirements.txt
+
+Obtain your own api id: https://core.telegram.org/api/obtaining_api_id
+
+                       |
