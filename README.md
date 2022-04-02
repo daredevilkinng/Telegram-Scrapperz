@@ -33,3 +33,6 @@ Install dependencies by running this command:
 Obtain your own api id: https://core.telegram.org/api/obtaining_api_id
 
                        |
+                       
+
+# contact me : https://t.me/tg_grow_scripts
