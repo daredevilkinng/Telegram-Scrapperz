@@ -4,7 +4,7 @@
 
 # The program is paid worth of simple amount 25$.
 
-# NOTE: You can scrape the members only from a Group **NOT A CHANNEL.** Don't get fooled by anyone Telegram has changed it's policies you can scrape members from any channel only if you're the "ADMIN" ofscrapping group 
+# NOTE: You can scrape the members only from a Group **NOT A CHANNEL.** Don't get fooled by anyone Telegram has changed it's policies you can scrape members from any channel only if you're the "ADMIN" of scrapping group 
 
 # REGESTRING
 Go to offcial telegram link https://core.telegram.org/ and login with with the phone number regitered on telegram.
