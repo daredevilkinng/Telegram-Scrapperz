@@ -32,6 +32,8 @@ Install dependencies by running this command:
 
 Obtain your own api id: https://core.telegram.org/api/obtaining_api_id
 
+                            For more advanced scripts follow me On YouTube.
+                                          Click on icon below
 
 </p>
 <p align="center">
