@@ -32,7 +32,13 @@ Install dependencies by running this command:
 
 Obtain your own api id: https://core.telegram.org/api/obtaining_api_id
 
-                       |
-                       
+
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ifOJayL3qAQ">
+    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+  </a>
+</p>
+
 
 # contact me : https://t.me/daredevilkinng
