@@ -4,8 +4,6 @@
 
 # The program is paid worth of simple amount 25$.
 
-# NOTE: You can scrape the members only from a Group **NOT A CHANNEL.** Don't get fooled by anyone Telegram has changed it's policies you can scrape members from any channel only if you're the "ADMIN" of scrapping group 
-
 # REGESTRING
 Go to offcial telegram link https://core.telegram.org/ and login with with the phone number regitered on telegram.
 
@@ -21,6 +19,7 @@ Select the group of which you want the members and the script will do the rest.
 
 You can view the scrapped members list in a CSV file.
 
+# Modes of payment = Crypto(BTC, USDT, LTC, BUSD, BNB, or any coin) , Payoneer, Transferwise
 
 # Installation
 
