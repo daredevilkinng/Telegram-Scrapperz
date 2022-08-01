@@ -1,8 +1,8 @@
-# A python script to scrape all the members in a telegram group and save in a CSV file.
+# A python script to scrape all the members and save in a CSV file.
 
-# Program to scrape all the members from a given Telegram group and store them in a CSV file.
+# Program to scrape all the members from a given Telegram group/Channel and store them in a .CSV file.
 
-# The program is paid worth of simple amount 25$.
+# The program is paid worth of simple amount 28$.
 
 # REGESTRING
 Go to offcial telegram link https://core.telegram.org/ and login with with the phone number regitered on telegram.
