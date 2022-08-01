@@ -29,6 +29,8 @@ Install dependencies by running this command:
 
     pip install -r requirements.txt
 
+# Modes of payment = Crypto(BTC, USDT, LTC, BUSD, BNB, or any coin) , Payoneer, Transferwise
+
 Obtain your own api id: https://core.telegram.org/api/obtaining_api_id
 
 #                            For more advanced scripts follow me On YouTube.
